@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Formulario_Carlos</string>
+    <string name="nombre">Nombre completo</string>
+    <string name="fecha">Fecha de nacimiento</string>
+    <string name="telefono">Teléfono</string>
+    <string name="email">E-mail</string>
+    <string name="descripcion">Descripción</string>
+    <string name="btn_siguiente">Siguiente</string>
+    <string name="confirmar">Confirmar Datos</string>
+    <string name="nombConf">Nombre: </string>
+    <string name="fechConf">Fecha de nacimiento: </string>
+    <string name="telConf">Teléfono: </string>
+    <string name="mailConf">E-mail: </string>
+    <string name="descConf">Descripción: </string>
+    <string name="editar">Editar Datos</string>
+</resources>
